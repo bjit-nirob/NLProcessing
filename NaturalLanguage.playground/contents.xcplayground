@@ -4,7 +4,7 @@
         <page name='NLLanguageRecognizer'/>
         <page name='NLTokenizer'/>
         <page name='NLTagger'/>
-        <page name='NLModel'/>
         <page name='NLEmbedding'/>
+        <page name='NLModel'/>
     </pages>
 </playground>
