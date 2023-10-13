@@ -5,7 +5,11 @@ import NaturalLanguage
  Demonstrations of NLLanguageRecognizer
  */
 
-let str = "I am going to school."
+//let str = "I am going to school."
+//let str = "আমি স্কুলে যাচ্ছি।"
+//let str = "学校に行く。"
+let str = "أنا ذاهب للمدرسة."
+
 let languageRecognizer = NLLanguageRecognizer()
 languageRecognizer.processString(str)
 
